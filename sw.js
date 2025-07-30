@@ -11,8 +11,8 @@ const urlsToCache = [
     // Add your JS files if any
     
     // Add important images (optional)
-    '/icons/icon-192x192.png',
-    '/icons/icon-512x512.png'
+    '/sharpkolors.jpg',
+    '/sharpkolors.jpg'
 ];
 
 // Install Service Worker
